@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<streams version="1.0" addCategoryName="true">
+  <stream name="R1" url="https://wagahai.ga/radio/r1/index.m3u8" />
+  <stream name="R2" url="https://wagahai.ga/radio/r2/index.m3u8" />
+  <stream name="FM" url="https://wagahai.ga/radio/fm/index.m3u8" />
+</streams>
